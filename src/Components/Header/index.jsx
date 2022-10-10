@@ -1,5 +1,7 @@
 import Logo from '../../Assets/logo.svg'
+import Content from '../../Assets/content.png'
 
+import './style.css'
 
 export default function Header() {
 
@@ -8,7 +10,7 @@ export default function Header() {
         <section className="headerSection">
 
             <div className="headerNav">
-                <div>
+                <div className="logo">
                     <img src={Logo} />
                     <h1> Tuvalu </h1>
                 </div>
@@ -16,7 +18,6 @@ export default function Header() {
             </div>
 
             <div className="headerContent">
-
                 <div>
                     <p> Group - 1 </p>
                     <h1> Domain Name, Economy and Well-Being </h1>
@@ -25,9 +26,7 @@ export default function Header() {
                     <button> Explore </button>
                 </div>
 
-                <img src="" alt="" />
-
-
+                <img src={Content} alt="" />
 
             </div>
 
