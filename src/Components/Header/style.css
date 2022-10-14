@@ -1,42 +1,83 @@
 .headerSection {
-    background: #3E3658;
-    width: 100vw;
-    height: 586px;
-    width: 100vw;
-    font-family: 'Work Sans', sans-serif;
+  background: #3e3658;
+  width: 100vw;
+  height: 586px;
+  width: 100vw;
+  font-family: "Work Sans", sans-serif;
 }
 
 .logo {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
-.logo h1{
-    font-weight: 500;
-    font-size: 40px;
-    color: white;
-    margin-left: 40px;
+.logo h1 {
+  font-weight: 500;
+  font-size: 40px;
+  color: white;
+  margin-left: 40px;
 }
 
 .headerNav {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding-top: 36px;
-    padding-left: 135px;
-    width: 1200px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 36px;
+  padding-left: 135px;
+  width:90vw;
 }
 
-.headerNav p{
-    color: white;
-    font-size: 20px;
-    font-weight: 400;
+.headerNav p {
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
 }
 
-.headerContent{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+.headerContent {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  
 }
 
+.headerContentText #group {
+  font-family: "Work Sans";
+  font-weight: 700;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: white;
+  letter-spacing: 5px;
+  margin-bottom: 15px;
+}
+
+.headerContentText h1 {
+  font-family: "Crimson Text";
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 125%;
+  width: 416px;
+  color: white;
+  margin-bottom: 15px;
+}
+
+.headerContentText p {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  color: rgba(255, 255, 255, 0.65);
+  width: 416px;
+}
+
+.headerButton {
+  width: 170px;
+  height: 48px;
+  background-color: white;
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 20px;
+  border: 0;
+  border-radius: 5px;
+  margin-top: 25px;
+}

@@ -18,12 +18,12 @@ export default function Header() {
             </div>
 
             <div className="headerContent">
-                <div>
-                    <p> Group - 1 </p>
+                <div className='headerContentText'>
+                    <p id = 'group'> Group - 1 </p>
                     <h1> Domain Name, Economy and Well-Being </h1>
                     <p> How the sale of the internet domain ".tv" has influenced Tuvalu's economy and population well-being?</p>
 
-                    <button> Explore </button>
+                    <button className='headerButton'> Explore </button>
                 </div>
 
                 <img src={Content} alt="" />
