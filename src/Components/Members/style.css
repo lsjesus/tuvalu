@@ -1,0 +1,26 @@
+.memberContainer {
+    width: 948px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 38px;
+}
+
+.pageContainer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.membersTitle {
+    font-family: "Work Sans";
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    color: #3e3658;
+    margin-bottom: 60px;
+}
