@@ -1,0 +1,26 @@
+.timeLineContainer {
+    margin-left: 135px;
+}
+
+.timelineTitle {
+    font-family: "Crimson Text";
+    font-weight: 700;
+    font-size: 40px;
+    color: #212529;
+    margin-bottom: 16px;
+}
+
+.timelineDescription {
+    font-family: "Work Sans";
+    font-weight: 400;
+    font-size: 15px;
+    color: rgba(33, 37, 41, 0.5);
+    width: 481px;
+    margin-bottom: 50px;
+}
+
+.timeline{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

@@ -1,5 +1,7 @@
 import Header from "./Components/Header";
 import Members from "./Components/Members";
+import Timeline from "./Components/Timeline";
+import Companies from "./Components/Companies";
 import './global.style.css'
 
 function App() {
@@ -7,6 +9,8 @@ function App() {
     <div className="App">
       <Header/>
       <Members/>
+      <Timeline/>
+      <Companies/>
     </div>
   );
 }

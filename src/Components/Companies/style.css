@@ -1,0 +1,28 @@
+.companiesContainer {
+    margin-left: 135px;
+}
+
+
+.companiesTitle {
+    font-family: 'Crimson Text';
+    font-weight: 700;
+    font-size: 40px;
+    color: #212529;
+}
+
+.companiesDesc {
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 15px;
+    color: #212529;
+    width: 804px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+.companiesSection {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: calc(100vw - 200px);
+}
