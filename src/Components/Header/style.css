@@ -38,7 +38,6 @@
   display: flex;
   align-items: center;
   justify-content: space-around;
-  
 }
 
 .headerContentText #group {
@@ -59,6 +58,7 @@
   width: 416px;
   color: white;
   margin-bottom: 15px;
+  overflow-y: hidden;
 }
 
 .headerContentText p {

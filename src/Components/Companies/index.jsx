@@ -18,17 +18,16 @@ export default function Companies() {
 
         <section className='companiesSection'>
             <img src={Companie} alt="" />
-
             <div>
-                <div>
+                <div className='companies'>
                     <img src={Twitch} alt="" />
                     <p> Twitch TV is a video and live gaming service available on the web and as a free app for Android and iPhone (iOS).</p>
                 </div>
-                <div>
+                <div className='companies'>
                     <img src={Youtube} alt="" />
                     <p> YouTube TV is a live TV streaming service. It provides access to live TV from over 85 broadcasts, cable, and regional sports networks.</p>
                 </div>
-                <div>
+                <div className='companies'>
                     <img src={Hulu} alt="" />
                     <p> Hulu is an American entertainment company that provides video-on-demand services that also offers file hosting services owned by Hulu.</p>
                 </div>

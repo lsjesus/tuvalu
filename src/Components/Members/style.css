@@ -4,6 +4,7 @@
     align-items: center;
     flex-wrap: wrap;
     gap: 38px;
+    padding-bottom: 30px;
 }
 
 .pageContainer {

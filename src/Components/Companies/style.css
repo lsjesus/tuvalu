@@ -23,6 +23,22 @@
 .companiesSection {
     display: flex;
     align-items: center;
-    justify-content: space-around;
-    width: calc(100vw - 200px);
+    justify-content: space-between;
+    width: calc(100% - 600px);
+    margin-left: 172px;
+}
+
+.companies {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.companies p {
+    width: 347px;
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 16px;
+    color: #3E3658;
+    margin-left: 18px;
 }
