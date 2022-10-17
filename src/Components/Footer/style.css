@@ -1,0 +1,16 @@
+.footerContainer {
+    width: 100vw;
+    background-color: #3E3658;
+    height: 135px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.footerContainer p {
+    color: white;
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 20px;
+}

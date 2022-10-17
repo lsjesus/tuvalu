@@ -34,7 +34,7 @@ export default function Timeline() {
     return (
         <div className='TDLContainer'>
             <h1 className='TDLTitle' > TDL Domain Categories </h1>
-            <p className='TDLDescription'> Starting in 1985 with USA Advanced Research Projects Agency (ARPA) up to today, how the domain changed the internet. </p>
+            <p className='TDLDescription'> All the Domains below were supervisioneted by Internet Assigned Number Authority (IANA), nowadays IANA is part of the Internet Corporation of Assigned Names and Numbers (ICANN), that’s responsable to coordinate the world domains.  </p>
 
             <div className='cardsContainer'>
                 {lista.map(item =>(
