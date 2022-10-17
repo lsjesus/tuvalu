@@ -1,8 +1,9 @@
-.timeLineContainer {
+.TDLContainer {
     margin-left: 135px;
+    margin-bottom: 60px;
 }
 
-.timelineTitle {
+.TDLTitle {
     font-family: "Crimson Text";
     font-weight: 700;
     font-size: 40px;
@@ -10,7 +11,7 @@
     margin-bottom: 16px;
 }
 
-.timelineDescription {
+.TDLDescription {
     font-family: "Work Sans";
     font-weight: 400;
     font-size: 15px;
@@ -19,9 +20,12 @@
     margin-bottom: 50px;
 }
 
-.timeline{
+.cardsContainer{
     display: flex;
+    width: 1200px;
     align-items: center;
-    justify-content: center;
-    margin-bottom: 60px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 42px;
 }
+

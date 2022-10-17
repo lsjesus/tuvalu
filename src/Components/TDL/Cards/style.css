@@ -1,0 +1,35 @@
+.cardContainer {
+    background: #263238;
+    border: 2.1518px solid #3E3658;
+    box-shadow: 0px 6.45541px 12.9108px rgba(0, 0, 0, 0.1);
+    border-radius: 17.2144px;
+    height: 210px;
+    color: white;
+    font-family: 'Work Sans';
+}
+
+.cardContainer h1 {
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.cardContainer p {
+    margin-left: 77px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+}
+
+.cardContainer img{
+    width: 34.43px;
+    height: 34.43px;
+    margin-right: 20px;
+    margin-left: 25px;
+}
+
+.cardContainer div{
+    display: flex;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    align-items: center;
+}

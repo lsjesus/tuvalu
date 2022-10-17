@@ -1,11 +1,9 @@
 import React from 'react'
 import "./style.css";
+import Time from '../../Assets/timeline2.png'
 
 
-import Time from '../../Assets/timeline.png'
-
-
-export default function Timeline() {
+export default function Timeline2() {
 
     // const timeline = [
     //     {
@@ -38,8 +36,8 @@ export default function Timeline() {
 
     return (
         <div className='timeLineContainer'>
-            <h1 className='timelineTitle' > Domain History </h1>
-            <p className='timelineDescription'> Starting in 1985 with USA Advanced Research Projects Agency (ARPA) up to today, how the domain changed the internet. </p>
+            <h1 className='timelineTitle' > Tuvalu’s Domain History </h1>
+            <p className='timelineDescription'> From the moment that the nation discovered its domain, until its nowaday monetization. </p>
 
             <img src={Time} alt="" className='timeline' />
 

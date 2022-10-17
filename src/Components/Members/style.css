@@ -5,6 +5,8 @@
     flex-wrap: wrap;
     gap: 38px;
     padding-bottom: 30px;
+    padding-top: 30px;
+    padding-left: 30px;
 }
 
 .pageContainer {
@@ -24,5 +26,5 @@
     letter-spacing: 5px;
     text-transform: uppercase;
     color: #3e3658;
-    margin-bottom: 60px;
+    margin-bottom: 30px;
 }
