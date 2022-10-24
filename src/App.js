@@ -16,8 +16,8 @@ function App() {
       <Timeline/>
       <TDL/>
       <Timeline2/>
-      <Tuvalu/>
       <Companies/>
+      <Tuvalu/>
       <Footer/>
     </div>
   );

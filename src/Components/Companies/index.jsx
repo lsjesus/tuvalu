@@ -11,7 +11,7 @@ export default function Companies() {
   return (
     <div className='companiesContainer'>
         <h1 className='companiesTitle'>
-            Large companies using the Tuvalu domain 
+            Companies using the Tuvalu domain 
         </h1>
 
         <p className='companiesDesc'> Widely used by companies that present video, audio, and streaming content on the Internet (marketing tool).  “Most users are looking for some clue in your URL that indicates what services your brand offers.” </p>
@@ -21,7 +21,7 @@ export default function Companies() {
             <div>
                 <div className='companies'>
                     <img src={Twitch} alt="" />
-                    <p> Twitch TV is a video and live gaming service available on the web and as a free app for Android and iPhone (iOS).</p>
+                    <p> Twitch TV is a video and live gaming service available on the web and as a free app for Android and iPhone (iOS). Since its creation, more than 1 million users watch it concurrently.</p>
                 </div>
                 <div className='companies'>
                     <img src={Youtube} alt="" />
