@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/tuvalu/static/css/main.7d2369cd.css",
+    "main.js": "/tuvalu/static/js/main.9fa24495.js",
+    "static/media/tuvalusection.png": "/tuvalu/static/media/tuvalusection.d1a1484d2e07b3f7cd65.png",
+    "static/media/timeline.png": "/tuvalu/static/media/timeline.d97e1284505050463265.png",
+    "static/media/companies.png": "/tuvalu/static/media/companies.38e07c445dbbc3e95882.png",
+    "static/media/timeline2.png": "/tuvalu/static/media/timeline2.24be7ad5025f65bb0dd9.png",
+    "static/media/content.png": "/tuvalu/static/media/content.9b3ef477c7da436a0d7d.png",
+    "static/media/logo.svg": "/tuvalu/static/media/logo.770de38c67981789061bd09a4cd35870.svg",
+    "index.html": "/tuvalu/index.html",
+    "main.7d2369cd.css.map": "/tuvalu/static/css/main.7d2369cd.css.map",
+    "main.9fa24495.js.map": "/tuvalu/static/js/main.9fa24495.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d2369cd.css",
+    "static/js/main.9fa24495.js"
+  ]
+}
